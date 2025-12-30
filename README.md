@@ -3,7 +3,7 @@
 
 ## Why EDRLast?
 
-Anti-EDR tools locate kernel arrays (like `PspCreateProcessNotifyRoutine`) and zero out the pointers of security drivers, which makes the EDR stops receiving critical events.
+Anti-EDR tools locate kernel arrays and zero out the pointers of security drivers, which makes the EDR stops receiving critical events.
 **EDRLast** ensures that these callbacks remain unchanged!
 
 ## Tested Environment
