@@ -1,5 +1,5 @@
 # EDRLast
-**EDRLast** is a PoC designed to detect and actively the technique that's used by tools like **EDRSandblast**, which utilize BYOVD to "blind" EDRs by unregistering their kernel callbacks.
+**EDRLast** is a PoC designed to detect and actively block the technique that's used by tools like **EDRSandblast**, which utilize BYOVD to "blind" EDRs by unregistering their kernel callbacks.
 
 ## Why EDRLast?
 
